@@ -1,1 +1,2 @@
 I am editing branch2 file mnelson.txt
+second line - branch 2
